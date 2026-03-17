@@ -1,0 +1,9 @@
+{
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 30000.0,
+    "RecordingDuration": 0.0003333333333333333,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "location"
+}
