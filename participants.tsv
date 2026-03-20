@@ -1,0 +1,4 @@
+participant_id	species	sex
+sub-1214579789	http://purl.obolibrary.org/obo/NCBITaxon_9545	M
+sub-CSH_ZAD_001	Mus musculus	F
+sub-mock	Mus musculus	O

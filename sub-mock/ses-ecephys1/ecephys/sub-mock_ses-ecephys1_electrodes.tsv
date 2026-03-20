@@ -1,0 +1,6 @@
+name	probe_name	x	y	z	hemisphere	impedance	shank_id	location
+e000	Device	n/a	n/a	n/a	n/a	n/a	ElectrodeGroup	CA1
+e001	Device	n/a	n/a	n/a	n/a	n/a	ElectrodeGroup	CA1
+e002	Device	n/a	n/a	n/a	n/a	n/a	ElectrodeGroup	CA1
+e003	Device	n/a	n/a	n/a	n/a	n/a	ElectrodeGroup	CA1
+e004	Device	n/a	n/a	n/a	n/a	n/a	ElectrodeGroup	CA1
